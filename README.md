@@ -1,16 +1,4 @@
-# Commons Simulator
-![Commons Simulator](images/commons_simulator.png)
-
-The Commons Simulator is a community project funded entirely by Gitcoin Grants, and undertaken by the Commons Stack’s dDev team. The Commons Simulator blends art and simulation into a dystopian sci-fi future where you travel back in time with cadCAD, a complex systems simulator that can predict the future.
-
-![](https://miro.medium.com/max/1400/0*eNAd_BMZMMJ1VL-U)
-
-You use cadCAD to help the fledgling RadicalxChange movement to customize their Cyber-Physical Commons to suit the needs of their community and save the world from ecosystem collapse!
-
-## Server status
-
-[![commons-stack](https://circleci.com/gh/commons-stack/commons-simulator.svg?style=svg)](https://app.circleci.com/pipelines/github/commons-stack/commons-simulator)
-
+# Plurigrid Energy Comomns Simulator
 
 ## 1. Installation:
 
@@ -89,11 +77,3 @@ From the main folder:
 ``` sh
 python -m unittest discover -s simulation -p '*_test.py'
 ```
-
-## 4. Resources
-
-- [Play the game here!](https://sim.commonsstack.org/)
-- [Read our Medium blog post](https://medium.com/commonsstack/the-commons-simulator-game-is-live-e1986615a105)
-- [Donate to our Gitcoin grant](https://gitcoin.co/grants/277/commons-simulator-modeling-sustainable-funding-for)
-- [Join out Telegram Channel](https://t.me/CSDdev)
-- [Learn more about the Commons Stack](https://commonsstack.org/)
