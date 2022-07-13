@@ -1,5 +1,7 @@
 # Plurigrid Energy Comomns Simulator
 
+Adapted from the **Commons Stack** [Commons Simulator](https://github.com/commons-stack/commons-simulator)
+
 ## 1. Installation:
 
 ```sh
